@@ -1,3 +1,3 @@
-# Lecture1_Asgn1_UserRepo
+# Lecture3_Asgn2_UserRepo
 
-1. Complete the code in Student class
+1. Complete the code in Client class
